@@ -1,0 +1,15 @@
+{
+  "name": "100-days-coding-chalenge",
+  "version": "1.0.0",
+  "description": "In this Typescript file i have done my day 48 challenge.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bhunesh Ojha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
